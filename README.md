@@ -14,6 +14,7 @@ The objective of the technology _fly-by_ series is to just touch every significa
 sudo apt-add-repository ppa:chris-lea/node.js
 sudo apt-get update
 sudo apt-get install nodejs
+sudo apt-get install npm  # You probably want this too, for development purposes
 ```
 
 #### Interpreter directive in bash scripts
